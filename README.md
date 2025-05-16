@@ -85,6 +85,10 @@ Designed to help users visualize complex data through customizable heatmaps and 
 
 ## Special thanks to **Md Tahsin Azad Shaikat** for assistance with this project.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/mdtahsinazad020)
+
+🐙 [GitHub](https://github.com/shaikat020)
+
 # License
 
 This project is open source and available under the MIT License.
