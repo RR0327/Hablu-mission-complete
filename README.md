@@ -53,7 +53,7 @@ cd hablu_project
 python -m venv venv
 venv\Scripts\activate  # or source venv/bin/activate
 pip install -r requirements.txt
-Create .env and add your values (see example above).
+Create .env and add your values.
 ```
 
 Then run:
