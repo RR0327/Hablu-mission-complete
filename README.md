@@ -56,12 +56,12 @@ pip install -r requirements.txt
 Create .env and add your values.
 ```
 
-Then run:
+# Then run:
 ```
 python manage.py migrate
 python manage.py runserver
 ```
-✅ Auth Endpoints
+## ✅ Auth Endpoints
 ```
 Use djoser + JWT:
 
@@ -71,6 +71,7 @@ POST /auth/jwt/create/ → Login (returns tokens)
 
 Use token in header: Authorization: Bearer <access_token>
 ```
+
 # Credits
 
 Built with using Django by **Md Rakibul Hassan**
