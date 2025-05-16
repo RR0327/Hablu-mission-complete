@@ -34,7 +34,7 @@ A Django REST Framework project to help "Hablu" level up in life — academicall
 ---
 
 ## 🗂️ Project Structure
-
+```
 hablu_project/
 ├── core/ # Main features
 ├── templates/ # For HTML forms (optional)
@@ -42,7 +42,7 @@ hablu_project/
 ├── .env
 ├── requirements.txt
 └── manage.py
-
+```
 ---
 
 ## ✅ Setup Instructions
