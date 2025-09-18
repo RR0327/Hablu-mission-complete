@@ -84,7 +84,6 @@ Built with using Django by **Md Rakibul Hassan**
 CSE Undergraduate | Backend Developer | Robotics & IoT Enthusiast
 
 [LinkedIn](https://www.linkedin.com/in/md-rakibul-hassan-507b00308)
-
 [GitHub](https://github.com/RR0327)
 
 Designed to help users visualize complex data through customizable heatmaps and track real-time weather conditions interactively.
@@ -92,7 +91,6 @@ Designed to help users visualize complex data through customizable heatmaps and 
 ## Special thanks to **Md Tahsin Azad Shaikat** for assistance with this project.
 
 [LinkedIn](https://www.linkedin.com/in/mdtahsinazad020)
-
 [GitHub](https://github.com/shaikat020)
 
 # License
