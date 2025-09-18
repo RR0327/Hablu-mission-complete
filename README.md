@@ -4,25 +4,25 @@ A Django REST Framework project to help "Hablu" level up in life — academicall
 
 ---
 
-## 🚀 Features Implemented (All 11 Missions)
+## Features Implemented (All 11 Missions)
 
-| Phase | Feature | Endpoint |
-|-------|---------|----------|
-| 📘 Academic | Save CGPA | `/api/cgpa/` |
-| 📘 Academic | Learn Skills | `/api/skills/` |
-| 📘 Academic | Mood Tracker | `/api/mood-checks/` |
-| 🏃‍♂️ Lifestyle | Run Tracker | `/api/marathon/` |
-| 👕 Lifestyle | Outfit Tips | `/api/outfit-tips/` |
-| 🏋️ Lifestyle | Gym Finder | `/api/gym-friends/` |
-| 💼 Career | Job Listings | `/api/jobs/` |
-| 🎬 Career | Random Movie | `/api/movies/` |
-| 🎉 Fun | Fun Fact | `/api/fun-fact/` |
-| 📚 Social | Study Group | `/api/study-groups/` |
-| 📊 Final | Hero Dashboard | `/api/dashboard/` |
+| Phase     | Feature        | Endpoint             |
+| --------- | -------------- | -------------------- |
+| Academic  | Save CGPA      | `/api/cgpa/`         |
+| Academic  | Learn Skills   | `/api/skills/`       |
+| Academic  | Mood Tracker   | `/api/mood-checks/`  |
+| Lifestyle | Run Tracker    | `/api/marathon/`     |
+| Lifestyle | Outfit Tips    | `/api/outfit-tips/`  |
+| Lifestyle | Gym Finder     | `/api/gym-friends/`  |
+| Career    | Job Listings   | `/api/jobs/`         |
+| Career    | Random Movie   | `/api/movies/`       |
+| Fun       | Fun Fact       | `/api/fun-fact/`     |
+| Social    | Study Group    | `/api/study-groups/` |
+| Final     | Hero Dashboard | `/api/dashboard/`    |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - Django 5.x
@@ -33,7 +33,8 @@ A Django REST Framework project to help "Hablu" level up in life — academicall
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
+
 ```
 hablu_project/
 ├── core/ # Main features
@@ -43,9 +44,10 @@ hablu_project/
 ├── requirements.txt
 └── manage.py
 ```
+
 ---
 
-## ✅ Setup Instructions
+## Setup Instructions
 
 ```
 git clone <repo-url>
@@ -57,11 +59,14 @@ Create .env and add your values.
 ```
 
 Then run:
+
 ```
 python manage.py migrate
 python manage.py runserver
 ```
-✅ Auth Endpoints
+
+_Auth Endpoints_
+
 ```
 Use djoser + JWT:
 
@@ -71,15 +76,16 @@ POST /auth/jwt/create/ → Login (returns tokens)
 
 Use token in header: Authorization: Bearer <access_token>
 ```
+
 # Credits
 
 Built with using Django by **Md Rakibul Hassan**
 
 CSE Undergraduate | Backend Developer | Robotics & IoT Enthusiast
 
-🔗 [LinkedIn](https://www.linkedin.com/in/md-rakibul-hassan-507b00308)
+[LinkedIn](https://www.linkedin.com/in/md-rakibul-hassan-507b00308)
 
-🐙 [GitHub](https://github.com/RR0327)
+[GitHub](https://github.com/RR0327)
 
 Designed to help users visualize complex data through customizable heatmaps and track real-time weather conditions interactively.
 
